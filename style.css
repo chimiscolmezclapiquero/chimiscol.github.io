@@ -1,0 +1,6 @@
+body{background:white;margin:0;font-family:Arial;text-align:center;}
+.container{padding:20px;}
+.logo{position:absolute;top:15px;right:15px;width:80px;}
+.baraja img{width:60%;max-width:350px;}
+button{padding:15px;font-size:18px;margin:20px;}
+label{font-size:18px;}
